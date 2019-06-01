@@ -9,6 +9,7 @@ $(document).ready(function() {
 
   // init
 
+
   getAllTasks();
 
   function getAllAvailableBoards(callback, callbackArgs) {
